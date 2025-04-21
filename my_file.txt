@@ -1,0 +1,4 @@
+Hi!
+Hope you are doing great!
+This is my firts time working with git, and it's going pretty well. There is only 1 week of school left, and 1 week of finals, which means I have a ton of things to do. So, I hope this is enough text for this file. 
+Anyways, bye ~
